@@ -1,0 +1,263 @@
+/*-- scss:defaults --*/
+
+// Dark Blue color scheme
+$primary: #4A7B95 !default;
+$link-color: #4A7B95 !default;
+
+/*-- scss:rules --*/
+
+// Top navbar blue band matching profile photo background
+.navbar {
+  background-color: #4A7B95 !important;
+
+  .navbar-brand,
+  .nav-link {
+    color: #ffffff !important;
+  }
+
+  .nav-link:hover {
+    color: #e0e0e0 !important;
+  }
+}
+
+// Homepage profile image and layout
+.profile-pic {
+  width: 100%;
+  max-width: 250px;
+  border-radius: 8px;
+  object-fit: cover;
+  margin: 0 auto 1rem;
+  display: block;
+}
+
+.about-links {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  justify-content: center;
+
+  p {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0;
+    justify-content: center;
+    width: 100%;
+  }
+}
+
+.about-link {
+  display: inline-flex;
+  align-items: center;
+  color: #555;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  padding: 0.25rem;
+
+  &:hover {
+    opacity: 0.7;
+  }
+
+  i {
+    font-size: 1.5rem;
+  }
+
+  // Email icon - gray
+  .bi-envelope {
+    color: #666666;
+  }
+
+  // GitHub icon - dark gray
+  .bi-github {
+    color: #333333;
+  }
+
+  // Google Scholar icon - graduation cap
+  .bi-mortarboard-fill {
+    color: #333333;
+  }
+
+  // LinkedIn icon - dark gray
+  .bi-linkedin {
+    color: #333333;
+  }
+}
+
+// Mobile responsive columns
+@media (max-width: 768px) {
+  .columns {
+    display: block !important;
+
+    .column {
+      width: 100% !important;
+      margin-bottom: 2rem;
+    }
+
+    .column:first-child {
+      text-align: center;
+    }
+
+    .column:not(:first-child) {
+      text-align: left;
+    }
+
+    .profile-pic {
+      margin: 0 auto 1rem;
+    }
+  }
+}
+
+// Headings
+h1 {
+  font-size: 1.75rem;
+  margin-bottom: 1.5rem;
+  color: #000;
+}
+
+h2 {
+  font-size: 1.4rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #000;
+}
+
+// Links use dark blue
+a {
+  color: $link-color;
+
+  &:hover {
+    color: darken($link-color, 10%);
+  }
+}
+
+// Smaller font for homepage bio
+.column p {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+// Code elements use dark green
+code {
+  color: $link-color;
+  background-color: #f8f9fa;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+}
+
+// Collapsible abstracts
+details {
+  margin: 0.5rem 0 0.5rem 0;
+  border-left: 3px solid transparent;
+  padding-left: 0;
+  transition: border-color 0.3s ease;
+
+  &[open] {
+    border-left-color: $link-color;
+    padding-left: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: $link-color;
+    padding: 0.3rem 0;
+    margin-top: 0.3rem;
+    list-style: none;
+    position: relative;
+    padding-left: 1.5rem;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::before {
+      content: "▸";
+      position: absolute;
+      left: 0;
+      font-size: 1rem;
+      transition: transform 0.2s ease;
+    }
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  &[open] summary::before {
+    transform: rotate(90deg);
+  }
+
+  p {
+    margin-top: 0.75rem;
+    margin-bottom: 0.5rem;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    line-height: 1.7;
+    text-align: justify;
+  }
+}
+
+// Publication entry spacing
+.publication-entry {
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e9ecef;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+// Compact spacing
+p {
+  margin-bottom: 0.75rem !important;
+}
+
+h2 {
+  margin-top: 1rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+ul {
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+li {
+  margin-bottom: 0.25rem !important;
+}
+
+hr {
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.columns {
+  margin-bottom: 0.5rem !important;
+}
+
+// Reduce gap between content and footer
+#quarto-content {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+  padding-top: 1rem !important;
+}
+
+#quarto-document-content {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+main.content {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+footer {
+  margin-top: 0.5rem !important;
+}

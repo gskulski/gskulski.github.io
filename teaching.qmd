@@ -1,0 +1,29 @@
+---
+title: "Teaching"
+---
+
+## Teaching Assistant
+
+::: {.publication-entry}
+**[COURSE NAME]** — [Department], [School]
+
+[Semester and Year] · Instructor: [Instructor Name]
+:::
+
+::: {.publication-entry}
+**[COURSE NAME]** — [Department], [School]
+
+[Semester and Year] · Instructor: [Instructor Name]
+:::
+
+---
+
+## Resources
+
+::: {.publication-entry}
+**[RESOURCE TITLE]**
+
+[Brief description of the resource and who it's for.]
+
+[**Link**](#)
+:::

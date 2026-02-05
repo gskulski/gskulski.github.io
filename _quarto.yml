@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME
+    - .nojekyll
+    - profile.jpeg
+    - profile_2.jpg
+    - profile_3.jpg
+    - cv.pdf
+    - orcid_logo_icon_145004.png
+
+website:
+  title: "Gabrielle Péloquin-Skulski"
+  site-url: "https://gskulski.com"
+  favicon: favicon.ico
+
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Research"
+        href: research.qmd
+
+  page-footer:
+    left: |
+      © 2026 Gabrielle Péloquin-Skulski
+    right: |
+      Built with [Quarto](https://quarto.org)
+
+format:
+  html:
+    theme: [sandstone, custom.scss]
+    css: styles.css
+    toc: false
