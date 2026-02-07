@@ -9,6 +9,10 @@ project:
     - profile_3.jpg
     - cv.pdf
     - orcid_logo_icon_145004.png
+    - lang-switcher.js
+  render:
+    - "*.qmd"
+    - "!teaching.qmd"
 
 website:
   title: "Gabrielle Péloquin-Skulski"
@@ -35,3 +39,6 @@ format:
     theme: [sandstone, custom.scss]
     css: styles.css
     toc: false
+    include-after-body:
+      - text: |
+          <script src="lang-switcher.js"></script>

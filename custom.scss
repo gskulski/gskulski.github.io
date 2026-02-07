@@ -261,3 +261,46 @@ main.content {
 footer {
   margin-top: 0.5rem !important;
 }
+
+// Language toggle button - two-sided switch design in navbar
+.navbar .language-toggle {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 1rem;
+  margin-right: 0.5rem;
+
+  @media (max-width: 768px) {
+    margin-left: 0.5rem;
+  }
+}
+
+.lang-switch {
+  display: inline-flex;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+  padding: 3px;
+
+  a {
+    padding: 0.35rem 0.75rem;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.85rem;
+    border-radius: 17px;
+    transition: all 0.3s ease;
+    color: rgba(255, 255, 255, 0.7);
+
+    &:hover {
+      color: #ffffff;
+    }
+
+    &.active {
+      background-color: rgba(255, 255, 255, 0.3);
+      color: #ffffff;
+    }
+
+    &.inactive {
+      background-color: transparent;
+      color: rgba(255, 255, 255, 0.7);
+    }
+  }
+}
