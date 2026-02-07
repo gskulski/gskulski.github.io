@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-La version la plus récente de mon CV peut être consultée ci-dessous ou téléchargée [ici](cv.pdf).
+La version la plus récente de mon CV peut être téléchargée [ici](cv.pdf).
 
 ::: {.cv-container}
 <iframe src="cv.pdf" width="90%" height="800px" frameborder="0"></iframe>

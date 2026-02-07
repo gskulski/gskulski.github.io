@@ -108,6 +108,11 @@ $link-color: #4A7B95 !default;
       margin: 0 auto 1rem;
     }
   }
+
+  // Hide CV PDF viewer on mobile devices
+  .cv-container {
+    display: none !important;
+  }
 }
 
 // Headings
