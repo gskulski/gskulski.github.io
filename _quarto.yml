@@ -19,6 +19,7 @@ website:
   title: "Gabrielle Péloquin-Skulski"
   site-url: "https://gskulski.com"
   favicon: favicon.ico
+  google-analytics: "G-7XZWY833KE"
 
   navbar:
     right:
