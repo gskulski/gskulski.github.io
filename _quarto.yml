@@ -22,7 +22,6 @@ project:
     - site.webmanifest
   render:
     - "*.qmd"
-    - "!teaching.qmd"
 
 website:
   title: "Gabrielle Péloquin-Skulski"
@@ -38,6 +37,8 @@ website:
         href: cv.qmd
       - text: "Research"
         href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
 
   page-footer:
     left: |
