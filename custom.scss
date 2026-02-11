@@ -210,11 +210,16 @@ details {
 // Publication entry spacing
 .publication-entry {
   margin-bottom: 1rem;
-  padding-bottom: 0.75rem;
-  border-bottom: 1px solid #e9ecef;
+  padding-bottom: 0.5rem;
 
-  &:last-child {
-    border-bottom: none;
+  // Reduce spacing between elements within publication
+  p {
+    margin-bottom: 0.3rem !important;
+  }
+
+  strong {
+    display: block;
+    margin-bottom: 0.3rem;
   }
 }
 
