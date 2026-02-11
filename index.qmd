@@ -1,5 +1,5 @@
 ---
-title: "Gabrielle Péloquin-Skulski"
+pagetitle: "Gabrielle Péloquin-Skulski"
 ---
 
 ::: {.columns}
