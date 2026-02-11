@@ -28,8 +28,6 @@ title: "Recherche"
 **« The Limits of AI-Persuasion: How Voters React to Synthetic Campaign Media »** Gabrielle Péloquin-Skulski, Victor Livernoche, Aarash Feizi, Svetlana Zhuk, Kellin Pelrine, André Blais, Reihaneh Rabbany, and Jean-François Godbout. *Disponible sur demande*.
 :::
 
----
-
 ## Publications
 
 ::: {.publication-entry}
@@ -95,8 +93,6 @@ title: "Recherche"
 <p>Despite a wealth of literature on the determinants of electoral turnout, little is known about the cost of voting. Some studies suggest that facilitating voting slightly increases turnout, but what ultimately matters is people's subjective perceptions of how costly voting is. This paper offers a first comprehensive analysis of the subjective cost of voting and its impact on voter turnout. We use data from an original survey conducted in Canada and data from the Making Electoral Democracy Work project which covers 23 elections among 5 different countries. We distinguish direct and information/decision voting costs. That is, the direct costs that are related to the act of voting and the costs that are related to the efforts to make (an informed) choice. We find that the cost of voting is generally perceived to be very small but that those who find voting more difficult are indeed less prone to vote, controlling for a host of other considerations. That impact, however, is relatively small, and the direct cost matters more than the information/decision cost.</p>
 </details>
 :::
-
----
 
 ## Actes de conférence
 
