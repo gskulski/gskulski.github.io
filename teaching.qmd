@@ -14,7 +14,7 @@ Fall 2024
 <details>
 <summary>Description</summary>
 
-<p>I successfully completed a 10-workshop series focused on core teaching skills, including syllabus construction, course design, lesson planning, student assessment and feedback, and creating effective and welcoming classroom climates. Two workshops featured microteaching sessions, during which I taught sample lessons on survey methodology in political science and received individualized feedback from peers and an experienced teaching expert. I developed a course syllabus on public opinion and survey methodology during this program, which is available upon request.</p>
+<p>I successfully completed a 10-workshop series focused on core teaching skills, including syllabus development, course design, lesson planning, student assessment and feedback, and fostering an effective and inclusive classroom environment. Two of the workshops were microteaching sessions, during which I delivered sample lessons on survey methodology in political science and received detailed feedback from peers and an experienced teaching mentor. As part of this program, I developed a course syllabus on public opinion and survey methodology, which I am happy to provide upon request.</p>
 </details>
 :::
 
@@ -32,13 +32,13 @@ Spring 2025 · Professor: Adam J. Berinsky
 <details>
 <summary>Description</summary>
 
-<p>"Why are false and unsupported beliefs about politics and public policy so prevalent and hard to address? What role does social media play in the spread of misinformation? And what role should it play? This course will explore the psychological factors that make people vulnerable to misperceptions and conspiracy theories and the reasons that attempts to counter false and extreme beliefs so often fail to reduce the prevalence of these phenomena. We will pay especially close attention to the role of social media, and the internet more generally. We will also analyze how the dynamics of misinformation and extreme beliefs are exploited by political elites and consider possible approaches that journalists, civic reformers, government officials, and technology platforms could employ to combat misperceptions. Students will develop substantive expertise in how to measure, diagnose, and respond to false beliefs about politics and public policy; methodological expertise in reading and analyzing quantitative and experimental research in social science; and writing skills in preparing a final research paper analyzing the development of a specific misperception or conspiracy theory."</p>
+<p>"Why are false and unsupported beliefs about politics and public policy so prevalent and hard to address? What role does social media play in the spread of misinformation? And what role should it play? This course explored the psychological factors that make people vulnerable to misperceptions and conspiracy theories and the reasons that attempts to counter false and extreme beliefs so often fail to reduce the prevalence of these phenomena. We paid especially close attention to the role of social media, and the internet more generally. We analyzed how the dynamics of misinformation and extreme beliefs are exploited by political elites and considered possible approaches that journalists, civic reformers, government officials, and technology platforms could employ to combat misperceptions. Students developed substantive expertise in how to measure, diagnose, and respond to false beliefs about politics and public policy; methodological expertise in reading and analyzing quantitative and experimental research in social science; and writing skills in preparing a final research paper analyzing the development of a specific misperception or conspiracy theory."</p>
 </details>
 
 <details>
 <summary>Summary of Tasks</summary>
 
-<p>I led and designed weekly, hour-long recitation sections to review course material, practice applying key concepts, facilitate discussion of assigned readings, and clarify assignments and expectations (slides available upon request). Recitations included short lectures, interactive activities, and guided discussion. I provided academic support by answering student questions during and outside of class, and graded all written assessments. I also delivered one guest lecture on labeling AI-generated material online (slides available upon request).</p>
+<p>I led and designed weekly, hour-long recitation sections that incorporated brief lectures, interactive activities, and guided discussions. These sessions provided students with opportunities to review course material, apply key concepts, engage with assigned readings, and clarify assignments and expectations. Recitation slides are available upon request. I also graded all written assessments and delivered a guest lecture on labeling AI-generated material online (slides available upon request).</p>
 </details>
 
 <details>
@@ -62,13 +62,13 @@ Fall 2024 · Professor: Charles Stewart III
 <details>
 <summary>Description</summary>
 
-<p>"The purpose of this class is to examine the conduct of elections in the United States, with special attention to watching how the 2024 election evolves. With partisan polarization rising over the past few decades and high-profile elections being decided by declining electoral margins, elections are taking on an increasing importance in American political life. Whether or not Americans consider them important, elections are the bread and butter of political science. We have been studying all the elements of elections—ranging from the rules under which they are conducted to the opinions motivating voters—for as long as there has been political science. Therefore, in examining the conduct of elections in the U.S. with special attention to 2024, we will be gaining some experience with the literature, methods, and data that are associated with the study of elections. For (just about) every topic covered in this class, the readings will be a mix of current journalism, classic writings, and new research. Each class will see several presentations about elections as they are being conducted throughout the country, as well as presentations about legal and administrative issues that are emerging throughout the nation. Many people believe that they are heavily involved in elections by following the news on the Internet and watching commentary on their favorite cable news channel. Such consumption behavior is a useful place to start in understanding elections, but there is no substitute for actual participation. Therefore, in addition to traditional academic exercises—reading, quizzes, papers, presentations, and lectures—there is a participation component to the class. Everyone will be required to either volunteer in a campaign, serve as a poll worker in Cambridge, or participate in a polling place observation project on Election Day. By the end of the semester, I hope you will have a deeper understanding of how the 2024 election unfolded and why the outcomes of the election happened as they did."</p>
+<p>The purpose of this class was to examine the conduct of elections in the United States, with special attention to watching how the 2024 election evolved. "Considers the role of elections in American politics. Issues explored include empirical and theoretical models of electoral competition, the effect of elections on public policy, and proposals to improve elections. Special emphasis is given to mass voting behavior, political parties, the media, and campaign finance. Subject focuses on US elections, but provides some contrasts with other countries, especially the United Kingdom."</p>
 </details>
 
 <details>
 <summary>Summary of Tasks</summary>
 
-<p>Drafted quizzes for each lecture; graded all written and oral evaluations; held office hours to support students with course material and assessments; and taught two lectures on public opinion (slides available upon request).</p>
+<p>I drafted reading quizzes for each lecture, graded all written and oral evaluations, held office hours to support students with course material and assessments, and taught two lectures on public opinion (slides available upon request).</p>
 </details>
 
 <details>
@@ -91,22 +91,26 @@ Fall 2024 · Professor: Charles Stewart III
 
 Massachusetts Institute of Technology
 
+Summer 2025
+
 <details>
 <summary>Description</summary>
 
-<p>[Add description here]</p>
+<p>I led a workshop introducing undergraduate and master's students in the Pathways to Political Science program at MIT to causal inference. The workshop provided an overview of counterfactual reasoning, the potential outcomes framework, experimental design, matching methods, regression analysis, instrumental variables, regression discontinuity designs, and difference-in-differences.</p>
 </details>
 :::
 
 ::: {.publication-entry}
-**Introduction to Remote Resources, Political Methodology Lab**
+**Introduction to Remote Resources, [Political Methodology Lab Workshop](https://pmlab.mit.edu/events/current-workshopsss/)**
 
-Massachusetts Institute of Technology · Co-Instructor
+Massachusetts Institute of Technology · Co-instructor with [Mason Reece](https://mreece13.github.io/)
+
+Spring 2025
 
 <details>
 <summary>Description</summary>
 
-<p>[Add description here]</p>
+<p>Alongside Mason Reece, I led a workshop for MIT Political Science PhD students as part of the Political Methodology Lab workshop series. The session introduced students to the Lab's high-performance computing system ([XVII](https://pmlab.mit.edu/computing/)) and [MIT Supercloud](https://supercloud.mit.edu/), an HPC-style shared computing cluster. We covered best practices for using these resources and provided Linux commands to help students begin working effectively on the Supercloud. Our slides can be accessed [here](pml_remote_slides.html).</p>
 </details>
 :::
 
@@ -127,7 +131,7 @@ Fall 2025 · Professor: Ariel White
 
 Université de Montréal
 
-Professor: Patrick Fournier
+Spring 2021 · Professor: Patrick Fournier
 :::
 
 ::: {.publication-entry}
@@ -135,5 +139,5 @@ Professor: Patrick Fournier
 
 Université de Montréal
 
-Professor: Patrick Fournier
+Fall 2020 · Professor: Patrick Fournier
 :::

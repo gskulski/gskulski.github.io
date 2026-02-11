@@ -20,10 +20,11 @@ project:
     - apple-touch-icon.png
     - favicon-meta.html
     - site.webmanifest
+    - pml_remote_slides.html
   render:
     - "*.qmd"
-    - "!teaching.qmd"
-    - "!teaching_fr.qmd"
+    # - "!teaching.qmd"
+    # - "!teaching_fr.qmd"
 
 website:
   title: "Gabrielle Péloquin-Skulski"
@@ -39,6 +40,8 @@ website:
         href: cv.qmd
       - text: "Research"
         href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
 
   page-footer:
     left: |

@@ -2,49 +2,49 @@
 title: "Enseignement"
 ---
 
-## Formation Pédagogique
+## Pedagogical Training
 
 ::: {.publication-entry}
 **[Kaufman Teaching Certificate Program (KTCP)](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program/)**
 
 Massachusetts Institute of Technology
 
-Automne 2024
+Fall 2024
 
 <details>
 <summary>Description</summary>
 
-<p>J'ai complété avec succès une série de 10 ateliers axés sur les compétences pédagogiques essentielles, incluant la construction de plans de cours, la conception de cours, la planification de leçons, l'évaluation et la rétroaction aux étudiants, et la création de climats de classe efficaces et accueillants. Deux ateliers comprenaient des sessions de micro-enseignement, au cours desquelles j'ai enseigné des leçons sur la méthodologie d'enquête en science politique et reçu des commentaires individualisés de pairs et d'un expert en enseignement expérimenté. J'ai développé un plan de cours sur l'opinion publique et la méthodologie d'enquête durant ce programme, disponible sur demande.</p>
+<p>I successfully completed a 10-workshop series focused on core teaching skills, including syllabus development, course design, lesson planning, student assessment and feedback, and fostering an effective and inclusive classroom environment. Two of the workshops were microteaching sessions, during which I delivered sample lessons on survey methodology in political science and received detailed feedback from peers and an experienced teaching mentor. As part of this program, I developed a course syllabus on public opinion and survey methodology, which I am happy to provide upon request.</p>
 </details>
 :::
 
 ---
 
-## Auxiliaire d'Enseignement
+## Teaching Assistant
 
 ::: {.publication-entry}
 **17.279: Political Misinformation in the Age of Social Media**
 
 Massachusetts Institute of Technology
 
-Printemps 2025 · Professeur: Adam J. Berinsky
+Spring 2025 · Professor: Adam J. Berinsky
 
 <details>
 <summary>Description</summary>
 
-<p>"Why are false and unsupported beliefs about politics and public policy so prevalent and hard to address? What role does social media play in the spread of misinformation? And what role should it play? This course will explore the psychological factors that make people vulnerable to misperceptions and conspiracy theories and the reasons that attempts to counter false and extreme beliefs so often fail to reduce the prevalence of these phenomena. We will pay especially close attention to the role of social media, and the internet more generally. We will also analyze how the dynamics of misinformation and extreme beliefs are exploited by political elites and consider possible approaches that journalists, civic reformers, government officials, and technology platforms could employ to combat misperceptions. Students will develop substantive expertise in how to measure, diagnose, and respond to false beliefs about politics and public policy; methodological expertise in reading and analyzing quantitative and experimental research in social science; and writing skills in preparing a final research paper analyzing the development of a specific misperception or conspiracy theory."</p>
+<p>"Why are false and unsupported beliefs about politics and public policy so prevalent and hard to address? What role does social media play in the spread of misinformation? And what role should it play? This course explored the psychological factors that make people vulnerable to misperceptions and conspiracy theories and the reasons that attempts to counter false and extreme beliefs so often fail to reduce the prevalence of these phenomena. We paid especially close attention to the role of social media, and the internet more generally. We analyzed how the dynamics of misinformation and extreme beliefs are exploited by political elites and considered possible approaches that journalists, civic reformers, government officials, and technology platforms could employ to combat misperceptions. Students developed substantive expertise in how to measure, diagnose, and respond to false beliefs about politics and public policy; methodological expertise in reading and analyzing quantitative and experimental research in social science; and writing skills in preparing a final research paper analyzing the development of a specific misperception or conspiracy theory."</p>
 </details>
 
 <details>
-<summary>Résumé des Tâches</summary>
+<summary>Summary of Tasks</summary>
 
-<p>J'ai dirigé et conçu des sections de récitation hebdomadaires d'une heure pour réviser le contenu du cours, pratiquer l'application des concepts clés, faciliter la discussion des lectures assignées et clarifier les devoirs et les attentes (diapositives disponibles sur demande). Les récitations comprenaient de courtes conférences, des activités interactives et des discussions guidées. J'ai fourni un soutien académique en répondant aux questions des étudiants pendant et en dehors des cours, et j'ai noté toutes les évaluations écrites. J'ai également donné une conférence invitée sur l'étiquetage du matériel généré par l'IA en ligne (diapositives disponibles sur demande).</p>
+<p>I led and designed weekly, hour-long recitation sections that incorporated brief lectures, interactive activities, and guided discussions. These sessions provided students with opportunities to review course material, apply key concepts, engage with assigned readings, and clarify assignments and expectations. Recitation slides are available upon request. I also graded all written assessments and delivered a guest lecture on labeling AI-generated material online (slides available upon request).</p>
 </details>
 
 <details>
-<summary>Évaluations des Étudiants</summary>
+<summary>Student Evaluations</summary>
 
-<p>Note Moyenne des Étudiants: 6.7/7.0</p>
+<p>Mean Student Rating: 6.7/7.0</p>
 
 <p>"Student 9564 - Recitations were very well structured and helped synthesize the information presented earlier in the week. It especially helped for some of the longer readings, which were sometimes confusing. Dedicated time during the recitations to also discuss papers was extremely helpful, as it helped set expectations for different assignments. In summary, I truly enjoyed recitations and thought they heavily contributed to the bulk of my learning in classes. Gabby herself also demonstrated her passion within the subject, frequently bringing in outside examples, helping build context for the concepts being studied."</p>
 
@@ -57,24 +57,24 @@ Printemps 2025 · Professeur: Adam J. Berinsky
 
 Massachusetts Institute of Technology
 
-Automne 2024 · Professeur: Charles Stewart III
+Fall 2024 · Professor: Charles Stewart III
 
 <details>
 <summary>Description</summary>
 
-<p>"The purpose of this class is to examine the conduct of elections in the United States, with special attention to watching how the 2024 election evolves. With partisan polarization rising over the past few decades and high-profile elections being decided by declining electoral margins, elections are taking on an increasing importance in American political life. Whether or not Americans consider them important, elections are the bread and butter of political science. We have been studying all the elements of elections—ranging from the rules under which they are conducted to the opinions motivating voters—for as long as there has been political science. Therefore, in examining the conduct of elections in the U.S. with special attention to 2024, we will be gaining some experience with the literature, methods, and data that are associated with the study of elections. For (just about) every topic covered in this class, the readings will be a mix of current journalism, classic writings, and new research. Each class will see several presentations about elections as they are being conducted throughout the country, as well as presentations about legal and administrative issues that are emerging throughout the nation. Many people believe that they are heavily involved in elections by following the news on the Internet and watching commentary on their favorite cable news channel. Such consumption behavior is a useful place to start in understanding elections, but there is no substitute for actual participation. Therefore, in addition to traditional academic exercises—reading, quizzes, papers, presentations, and lectures—there is a participation component to the class. Everyone will be required to either volunteer in a campaign, serve as a poll worker in Cambridge, or participate in a polling place observation project on Election Day. By the end of the semester, I hope you will have a deeper understanding of how the 2024 election unfolded and why the outcomes of the election happened as they did."</p>
+<p>The purpose of this class was to examine the conduct of elections in the United States, with special attention to watching how the 2024 election evolved. "Considers the role of elections in American politics. Issues explored include empirical and theoretical models of electoral competition, the effect of elections on public policy, and proposals to improve elections. Special emphasis is given to mass voting behavior, political parties, the media, and campaign finance. Subject focuses on US elections, but provides some contrasts with other countries, especially the United Kingdom."</p>
 </details>
 
 <details>
-<summary>Résumé des Tâches</summary>
+<summary>Summary of Tasks</summary>
 
-<p>J'ai rédigé des questionnaires pour chaque cours; noté toutes les évaluations écrites et orales; tenu des heures de bureau pour soutenir les étudiants avec le contenu du cours et les évaluations; et enseigné deux cours sur l'opinion publique (diapositives disponibles sur demande).</p>
+<p>I drafted reading quizzes for each lecture, graded all written and oral evaluations, held office hours to support students with course material and assessments, and taught two lectures on public opinion (slides available upon request).</p>
 </details>
 
 <details>
-<summary>Évaluations des Étudiants</summary>
+<summary>Student Evaluations</summary>
 
-<p>Note Moyenne des Étudiants: 6.8/7.0</p>
+<p>Mean Student Evaluation: 6.8/7.0</p>
 
 <p>"Student 10087 - Gabby is amazing; I really enjoyed the 2 lectures she taught on public opinion, which is one of the topics that I am personally most interested in. Gabby is (to my knowledge) in charge of grading most assignments. When I asked her to give me more individual feedback on a group project for which she had given the whole group the same feedback, she was willing to take the time to give me personal feedback, which I really appreciate"</p>
 
@@ -84,42 +84,46 @@ Automne 2024 · Professeur: Charles Stewart III
 
 ---
 
-## Instructrice
+## Instructor
 
 ::: {.publication-entry}
 **Introduction to Causal Inference, [Pathways to Political Science Workshop](https://globaldiversitylab.mit.edu/summer-research-internship/)**
 
 Massachusetts Institute of Technology
 
+Summer 2025
+
 <details>
 <summary>Description</summary>
 
-<p>[Ajouter description ici]</p>
+<p>I led a workshop introducing undergraduate and master's students in the Pathways to Political Science program at MIT to causal inference. The workshop provided an overview of counterfactual reasoning, the potential outcomes framework, experimental design, matching methods, regression analysis, instrumental variables, regression discontinuity designs, and difference-in-differences.</p>
 </details>
 :::
 
 ::: {.publication-entry}
-**Introduction to Remote Resources, Political Methodology Lab**
+**Introduction to Remote Resources, [Political Methodology Lab Workshop](https://pmlab.mit.edu/events/current-workshopsss/)**
 
-Massachusetts Institute of Technology · Co-Instructrice
+Massachusetts Institute of Technology · Co-instructor with [Mason Reece](https://mreece13.github.io/)
+
+Spring 2025
 
 <details>
 <summary>Description</summary>
 
-<p>[Ajouter description ici]</p>
+<p>Alongside Mason Reece, I led a workshop for MIT Political Science PhD students as part of the Political Methodology Lab workshop series. The session introduced students to the Lab's high-performance computing system ([XVII](https://pmlab.mit.edu/computing/)) and [MIT Supercloud](https://supercloud.mit.edu/), an HPC-style shared computing cluster. We covered best practices for using these resources and provided Linux commands to help students begin working effectively on the Supercloud. Our slides can be accessed [here](pml_remote_slides.html).</p>
 </details>
 :::
 
 ---
 
-## Notation
+## Grading
 
 ::: {.publication-entry}
 **17.271: Mass Incarceration in the United States**
 
 Massachusetts Institute of Technology
 
-Automne 2025 · Professeur: Ariel White
+Fall 2025 · Professor: Ariel White
 :::
 
 ::: {.publication-entry}
@@ -127,7 +131,7 @@ Automne 2025 · Professeur: Ariel White
 
 Université de Montréal
 
-Professeur: Patrick Fournier
+Spring 2021 · Professor: Patrick Fournier
 :::
 
 ::: {.publication-entry}
@@ -135,5 +139,5 @@ Professeur: Patrick Fournier
 
 Université de Montréal
 
-Professeur: Patrick Fournier
+Fall 2020 · Professor: Patrick Fournier
 :::

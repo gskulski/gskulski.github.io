@@ -9,6 +9,8 @@
     currentPage = 'cv';
   } else if (window.location.pathname.includes('research')) {
     currentPage = 'research';
+  } else if (window.location.pathname.includes('teaching')) {
+    currentPage = 'teaching';
   }
 
   // Create language toggle HTML
@@ -47,6 +49,9 @@
         } else if (href === 'research.qmd' || href === 'research.html' || text === 'Research') {
           link.setAttribute('href', 'research_fr.html');
           link.textContent = 'Recherche';
+        } else if (href === 'teaching.qmd' || href === 'teaching.html' || text === 'Teaching') {
+          link.setAttribute('href', 'teaching_fr.html');
+          link.textContent = 'Enseignement';
         }
       } else {
         // Ensure English pages link to English versions
@@ -59,6 +64,9 @@
         } else if (href === 'research.qmd' || href === 'research.html' || text === 'Recherche') {
           link.setAttribute('href', 'research.html');
           link.textContent = 'Research';
+        } else if (href === 'teaching.qmd' || href === 'teaching.html' || text === 'Enseignement') {
+          link.setAttribute('href', 'teaching.html');
+          link.textContent = 'Teaching';
         }
       }
     });
