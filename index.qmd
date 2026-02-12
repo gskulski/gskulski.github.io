@@ -28,4 +28,6 @@ Prior to starting my PhD at MIT, I earned a B.Sc. (Honors) and a M.Sc. from the 
 
 :::
 
-*Veuillez utiliser le sélecteur de langue en haut de la page afin d'accéder à la version française de mon site web.*
+<br>
+
+<p style="font-size: 0.85rem;"><em>Note: Veuillez utiliser le sélecteur de langue en haut de la page afin d'accéder à la version française de mon site web.</em></p>
