@@ -2,8 +2,8 @@
 title: "CV"
 ---
 
-The most recent version of my CV can be downloaded [here](cv.pdf).
+The most recent version of my CV can be downloaded [here](peloquin_skulski_cv.pdf).
 
 ::: {.cv-container}
-<iframe src="cv.pdf" width="90%" height="800px" frameborder="0"></iframe>
+<iframe src="peloquin_skulski_cv.pdf" width="90%" height="800px" frameborder="0"></iframe>
 :::
