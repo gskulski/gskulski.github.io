@@ -64,19 +64,19 @@ Automne 2024 · Professeur : Charles Stewart III
 </details>
 :::
 
-## Instructor
+## Chargée de cours
 
 ::: {.publication-entry}
-**Introduction to Causal Inference, [Pathways to Political Science Workshop](https://globaldiversitylab.mit.edu/summer-research-internship/)**
+**« Introduction à l'inférence causale, [Pathways to Political Science Workshop](https://globaldiversitylab.mit.edu/summer-research-internship/) »**
 
 Massachusetts Institute of Technology
 
-Summer 2025
+Été 2025
 
 <details>
 <summary>Description</summary>
 
-<p>I led a workshop introducing undergraduate and master's students in the Pathways to Political Science program at MIT to causal inference. The workshop provided an overview of counterfactual reasoning, the potential outcomes framework, experimental design, matching methods, regression analysis, instrumental variables, regression discontinuity designs, and difference-in-differences.</p>
+<p>J'ai animé un atelier d'introduction à l'inférence causale destiné aux étudiant·e·s de premier cycle et de maîtrise participant au programme Pathways to Political Science du MIT. L'atelier offrait un survol du raisonnement contrefactuel, du cadre des résultats potentiels, de la conception expérimentale, des méthodes d'appariement, de l'analyse de régression, des variables instrumentales, des conceptions par régression sur discontinuité et des méthodes de doubles différences.</p>
 </details>
 :::
 
