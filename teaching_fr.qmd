@@ -5,7 +5,7 @@ title: "Enseignement"
 ## Formation pédagogique
 
 ::: {.publication-entry}
-**[Kaufman Teaching Certificate Program (KTCP)](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program/)**
+**[« Kaufman Teaching Certificate Program (KTCP) »](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program/)**
 
 Massachusetts Institute of Technology
 
