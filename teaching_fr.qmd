@@ -94,28 +94,28 @@ Printemps 2025
 </details>
 :::
 
-## Grading
+## Chargée de correction
 
 ::: {.publication-entry}
-**17.271: Mass Incarceration in the United States**
+**17.271 : « Mass Incarceration in the United States »**
 
 Massachusetts Institute of Technology
 
-Fall 2025 · Professor: Ariel White
+Automne 2025 · Professeure : Ariel White
 :::
 
 ::: {.publication-entry}
-**POL3140: Political Psychology**
+**POL3140 : Psychologie Politique**
 
 Université de Montréal
 
-Spring 2021 · Professor: Patrick Fournier
+Hiver 2021 · Professeur : Patrick Fournier
 :::
 
 ::: {.publication-entry}
-**POL1803: Introduction to Quantitative Methodology**
+**POL1803 : Introduction à l'analyse quantitative**
 
 Université de Montréal
 
-Fall 2020 · Professor: Patrick Fournier
+Automne 2020 · Professeur : Patrick Fournier
 :::
