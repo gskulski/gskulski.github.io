@@ -21,9 +21,13 @@ Je suis étudiante au doctorat au département de science politique du Massachus
 
 Mes intérêts de recherche portent largement sur la psychologie politique, la communication politique et l'opinion publique. J'ai un intérêt particulier pour la désinformation et l'authenticité des contenus en ligne. Ma thèse examine comment les caractéristiques des contenus politiques et médiatiques influencent ce que les individus croient, consomment et avec quoi ils interagissent en ligne. J'étudie également la manière dont les pratiques d'étiquetage des médias générés par l'intelligence artificielle influencent les perceptions et les comportements en ligne, ainsi que la façon dont les données de traces numériques peuvent être utilisées pour inférer les attitudes politiques et les comportements hors ligne. Sur le plan méthodologique, mes travaux combinent des approches d'inférence causale et des modèles de langage de grande taille (MLGT) avec des expériences par sondage et des données de traces numériques.
 
-Avant de commencer mon doctorat au MIT, j'ai obtenu un baccalauréat (honors) et une maîtrise en science politique à l'Université de Montréal. Lorsque je ne fais pas de la recherche, j'aime faire du vélo autour de Cambridge et de Boston, skier et cuisiner. Anciennement danseuse et chorégraphe, je suis également passionnée par les arts.
+Avant de commencer mon doctorat au MIT, j'ai obtenu un baccalauréat (honors) et une maîtrise en science politique à l'Université de Montréal. Lorsque je ne fais pas de la recherche, j'aime faire du vélo autour de Cambridge et de Boston, skier et cuisiner. En tant qu'ancienne danseuse et chorégraphe, je suis également passionnée par les arts.
 
 
 :::
 
 :::
+
+<br>
+
+<p style="font-size: 0.85rem;"><em>Note: Please use the language toggle at the top of the page to switch to the English version of my website.</em></p>
