@@ -33,6 +33,15 @@ website:
   site-url: "https://gskulski.com"
   favicon: favicon.ico
   google-analytics: "G-7XZWY833KE"
+  description: "PhD candidate in Political Science at MIT studying political psychology, misinformation, and AI-generated media"
+  image: profile_3.jpg
+  open-graph:
+    title: "Gabrielle Péloquin-Skulski"
+    description: "PhD candidate in Political Science at MIT studying political psychology, misinformation, and AI-generated media"
+    image: profile_3.jpg
+  twitter-card:
+    creator: "@gskulski"
+    image: profile_3.jpg
 
   navbar:
     right:
