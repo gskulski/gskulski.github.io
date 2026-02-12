@@ -67,7 +67,7 @@ Automne 2024 · Professeur : Charles Stewart III
 ## Chargée de cours
 
 ::: {.publication-entry}
-**« Introduction à l'inférence causale », [Pathways to Political Science Workshop](https://globaldiversitylab.mit.edu/summer-research-internship/)**
+**Introduction à l'inférence causale, [Pathways to Political Science Workshop](https://globaldiversitylab.mit.edu/summer-research-internship/)**
 
 Massachusetts Institute of Technology
 
@@ -81,7 +81,7 @@ Massachusetts Institute of Technology
 :::
 
 ::: {.publication-entry}
-**« Introduction aux ressources informatiques », [Political Methodology Lab Workshop](https://pmlab.mit.edu/events/current-workshopsss/)**
+**Introduction aux ressources informatiques, [Political Methodology Lab Workshop](https://pmlab.mit.edu/events/current-workshopsss/)**
 
 Massachusetts Institute of Technology · Co-chargée de cours avec [Mason Reece](https://mreece13.github.io/)
 
