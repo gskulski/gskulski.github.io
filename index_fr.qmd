@@ -23,6 +23,8 @@ Mes intérêts de recherche portent largement sur la psychologie politique, la c
 
 Avant de commencer mon doctorat au MIT, j'ai obtenu un baccalauréat (honors) et une maîtrise en science politique à l'Université de Montréal. Lorsque je ne fais pas de la recherche, j'aime faire du vélo autour de Cambridge et de Boston, skier et cuisiner. En tant qu'ancienne danseuse et chorégraphe, je suis également passionnée par les arts.
 
+Mon nom de famille se prononce : <a href="#" onclick="var a=document.getElementById('name-audio-fr');a.play();return false;" style="cursor:pointer;">pé-lo-kain skoul-ski</a>. <audio id="name-audio-fr" src="pronunciation.m4a" preload="auto"></audio>
+
 
 :::
 
