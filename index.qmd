@@ -23,7 +23,7 @@ My broad research interests include political psychology, political communicatio
 
 Prior to starting my PhD at MIT, I earned a B.Sc. (Honors) and a M.Sc. from the Université de Montréal. Outside of research, I enjoy cycling around Cambridge and Boston, skiing, and cooking. As a former dancer and choreographer, I am also passionate about the arts.
 
-My hyphenated last name is pronounced <a href="#" onclick="var a=document.getElementById('name-audio');a.play();return false;" style="cursor:pointer;">Pay-loh-KIN skool-SKEE</a>. <audio id="name-audio" src="pronunciation.m4a" preload="auto"></audio>
+My hyphenated last name is pronounced Pay-loh-KIN skool-SKEE.
 
 
 :::
