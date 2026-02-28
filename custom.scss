@@ -86,6 +86,13 @@ $link-color: #4A7B95 !default;
   }
 }
 
+// Smaller navbar brand name on mobile
+@media (max-width: 768px) {
+  .navbar-brand {
+    font-size: 0.7rem !important;
+  }
+}
+
 // Mobile responsive columns
 @media (max-width: 768px) {
   .columns {
