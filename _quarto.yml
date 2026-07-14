@@ -5,6 +5,7 @@ project:
     - CNAME
     - .nojekyll
     - head_shot.jpeg
+    - cv.pdf
     - peloquin_skulski_cv.pdf
     - peloquin_skulski_cv_fr.pdf
     - orcid_logo_icon_145004.png
