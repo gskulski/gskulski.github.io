@@ -3,9 +3,9 @@ title: ""
 pagetitle: "Gabrielle Péloquin-Skulski"
 ---
 
-<div style="display: flex; gap: 3rem; align-items: flex-start;">
+<div class="profile-wrapper" style="display: flex; gap: 3rem; align-items: flex-start;">
 
-<div style="flex: 0 0 300px; text-align: center;">
+<div class="profile-photo-col" style="flex: 0 0 300px; text-align: center;">
 
 ![](head_shot.jpeg){.profile-pic}
 
@@ -15,7 +15,7 @@ pagetitle: "Gabrielle Péloquin-Skulski"
 
 </div>
 
-<div style="flex: 1; min-width: 0;">
+<div class="bio-text" style="flex: 1; min-width: 0;">
 
 I am a PhD candidate in the Department of Political Science at the Massachusetts Institute of Technology (MIT). I am affiliated with the [Political Experiments Research Lab (PERL)](https://perlab.mit.edu/), the [Human Cooperation Laboratory](https://davidrand-cooperation.com/lab), and the [Complex Data Lab](https://www.complexdatalab.com/).
 

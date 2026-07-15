@@ -95,6 +95,7 @@ $link-color: #4A7B95 !default;
 
 // Mobile responsive columns
 @media (max-width: 768px) {
+  // Old .columns layout
   .columns {
     display: block !important;
 
@@ -110,10 +111,33 @@ $link-color: #4A7B95 !default;
     .column:not(:first-child) {
       text-align: left;
     }
+  }
 
-    .profile-pic {
-      margin: 0 auto 1rem;
-    }
+  // New flexbox div layout (homepage)
+  .profile-wrapper {
+    flex-direction: column !important;
+    gap: 1.5rem !important;
+  }
+
+  .profile-photo-col {
+    flex: none !important;
+    width: 100% !important;
+    text-align: center;
+  }
+
+  .bio-text {
+    width: 100% !important;
+  }
+
+  .profile-pic {
+    margin: 0 auto 1rem;
+    max-width: 260px;
+  }
+
+  // Reduce outer padding on mobile
+  #quarto-document-content {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
   }
 
   // Hide CV PDF viewer on mobile devices
@@ -146,7 +170,7 @@ a {
 }
 
 // Smaller font for homepage bio
-.column p, div p {
+.column p, .bio-text p {
   font-size: 0.85rem;
   line-height: 1.6;
 }
