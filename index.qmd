@@ -15,7 +15,7 @@ pagetitle: "Gabrielle Péloquin-Skulski"
 
 :::
 
-::: {.column width="60%"}
+::: {.column width="60%" style="padding-left: 2rem;"}
 
 I am a PhD candidate in the Department of Political Science at the Massachusetts Institute of Technology (MIT). I am affiliated with the [Political Experiments Research Lab (PERL)](https://perlab.mit.edu/), the [Human Cooperation Laboratory](https://davidrand-cooperation.com/lab), and the [Complex Data Lab](https://www.complexdatalab.com/).
 
