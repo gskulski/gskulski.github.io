@@ -151,9 +151,9 @@ a {
   line-height: 1.6;
 }
 
-// Space between photo column and bio column
-.columns > .column:first-child {
-  padding-right: 2rem;
+// Gap between photo and bio columns
+.columns {
+  column-gap: 2rem;
 }
 
 // Code elements use dark green

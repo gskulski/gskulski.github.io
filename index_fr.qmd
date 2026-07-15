@@ -15,7 +15,7 @@ pagetitle: "Gabrielle Péloquin-Skulski"
 
 :::
 
-::: {.column width="60%" style="padding-left: 2rem;"}
+::: {.column width="60%"}
 
 Je suis étudiante au doctorat au département de science politique du Massachusetts Institute of Technology (MIT). Je suis également affiliée au [Political Experiments Research Lab (PERL)](https://perlab.mit.edu/), au [Human Cooperation Laboratory](https://davidrand-cooperation.com/lab) et au [Complex Data Lab](https://www.complexdatalab.com/).
 
