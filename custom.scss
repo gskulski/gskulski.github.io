@@ -153,7 +153,13 @@ a {
 
 // Gap between photo and bio columns
 .columns {
-  column-gap: 2rem;
+  gap: 2rem;
+}
+
+// Reduce outer left/right padding to widen content area
+#quarto-document-content {
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
 }
 
 // Code elements use dark green
