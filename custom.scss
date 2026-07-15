@@ -23,7 +23,7 @@ $link-color: #4A7B95 !default;
 // Homepage profile image and layout
 .profile-pic {
   width: 100%;
-  max-width: 250px;
+  max-width: 320px;
   border-radius: 8px;
   object-fit: cover;
   margin: 0 auto 1rem;
@@ -147,7 +147,7 @@ a {
 
 // Smaller font for homepage bio
 .column p {
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   line-height: 1.6;
 }
 
