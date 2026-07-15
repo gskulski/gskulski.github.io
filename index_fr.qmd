@@ -3,9 +3,9 @@ title: ""
 pagetitle: "Gabrielle Péloquin-Skulski"
 ---
 
-::: {.columns}
+<div style="display: flex; gap: 3rem; align-items: flex-start;">
 
-::: {.column width="35%"}
+<div style="flex: 0 0 300px; text-align: center;">
 
 ![](head_shot.jpeg){.profile-pic}
 
@@ -13,12 +13,9 @@ pagetitle: "Gabrielle Péloquin-Skulski"
 <a href="mailto:gskulski@mit.edu" class="about-link"><i class="bi bi-envelope"></i></a><a href="https://github.com/gskulski" class="about-link"><i class="bi bi-github"></i></a><a href="https://scholar.google.com/citations?user=1EbUmSsAAAAJ&hl=en&oi=ao" class="about-link"><i class="bi bi-mortarboard-fill"></i></a><a href="https://orcid.org/0000-0003-1504-0286" class="about-link orcid-link"><img src="orcid_logo_icon_145004.png" alt="ORCID" style="width: 1.5rem; height: 1.5rem; object-fit: contain;"/></a><a href="https://www.linkedin.com/in/gabrielle-peloquin-skulski/" class="about-link"><i class="bi bi-linkedin"></i></a>
 :::
 
-:::
+</div>
 
-::: {.column width="5%"}
-:::
-
-::: {.column width="57%"}
+<div style="flex: 1; min-width: 0;">
 
 Je suis étudiante au doctorat au département de science politique du Massachusetts Institute of Technology (MIT). Je suis également affiliée au [Political Experiments Research Lab (PERL)](https://perlab.mit.edu/), au [Human Cooperation Laboratory](https://davidrand-cooperation.com/lab) et au [Complex Data Lab](https://www.complexdatalab.com/).
 
@@ -26,9 +23,9 @@ Mes intérêts de recherche portent largement sur la psychologie politique, la c
 
 Avant de commencer mon doctorat au MIT, j'ai obtenu un baccalauréat (honors) et une maîtrise en science politique à l'Université de Montréal. Lorsque je ne fais pas de la recherche, j'aime faire du vélo autour de Cambridge et de Boston, skier et cuisiner.
 
-:::
+</div>
 
-:::
+</div>
 
 <br>
 
