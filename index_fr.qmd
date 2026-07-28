@@ -5,7 +5,7 @@ pagetitle: "Gabrielle Péloquin-Skulski"
 
 <div class="profile-wrapper" style="display: flex; gap: 3rem; align-items: flex-start;">
 
-<div class="profile-photo-col" style="flex: 0 0 220px; text-align: center;">
+<div class="profile-photo-col" style="flex: 0 0 240px; text-align: center;">
 
 ![](head_shot.jpeg){.profile-pic}
 
