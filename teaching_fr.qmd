@@ -93,29 +93,3 @@ Printemps 2025
 <p>En collaboration avec Mason Reece, j'ai animé un atelier destiné aux doctorant·e·s en science politique du MIT dans le cadre de la série d'ateliers du Political Methodology Lab. La séance présentait le système de calcul haute performance du laboratoire ([XVII](https://pmlab.mit.edu/computing/)) ainsi que [MIT Supercloud](https://supercloud.mit.edu/), une grappe de calcul haute performance partagée permettant d'exécuter des tâches intensives sur des serveurs distants. Nous avons abordé les bonnes pratiques d'utilisation de ces ressources et fourni des commandes Linux pour aider les étudiant·e·s à travailler efficacement sur le Supercloud. Les diapositives (en anglais) sont accessibles [ici](pml_remote_slides.html).</p>
 </details>
 :::
-
-## Chargée de correction
-
-::: {.publication-entry}
-**17.271 : « Mass Incarceration in the United States »**
-
-Massachusetts Institute of Technology
-
-Automne 2025 · Professeure : Ariel White
-:::
-
-::: {.publication-entry}
-**POL3140 : Psychologie Politique**
-
-Université de Montréal
-
-Hiver 2021 · Professeur : Patrick Fournier
-:::
-
-::: {.publication-entry}
-**POL1803 : Introduction à l'analyse quantitative**
-
-Université de Montréal
-
-Automne 2020 · Professeur : Patrick Fournier
-:::

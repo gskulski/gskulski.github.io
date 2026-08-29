@@ -93,29 +93,3 @@ Spring 2025
 <p>Alongside Mason Reece, I led a workshop for MIT Political Science PhD students as part of the Political Methodology Lab workshop series. The session introduced students to the Lab's high-performance computing system ([XVII](https://pmlab.mit.edu/computing/)) and [MIT Supercloud](https://supercloud.mit.edu/), an HPC-style shared computing cluster. We covered best practices for using these resources and provided Linux commands to help students begin working effectively on the Supercloud. Our slides can be accessed [here](pml_remote_slides.html).</p>
 </details>
 :::
-
-## Grading
-
-::: {.publication-entry}
-**17.271: Mass Incarceration in the United States**
-
-Massachusetts Institute of Technology
-
-Fall 2025 · Professor: Ariel White
-:::
-
-::: {.publication-entry}
-**POL3140: Political Psychology**
-
-Université de Montréal
-
-Spring 2021 · Professor: Patrick Fournier
-:::
-
-::: {.publication-entry}
-**POL1803: Introduction to Quantitative Methodology**
-
-Université de Montréal
-
-Fall 2020 · Professor: Patrick Fournier
-:::
