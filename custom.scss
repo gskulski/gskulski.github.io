@@ -190,6 +190,15 @@ a {
   padding-right: 0 !important;
 }
 
+// Quarto's default article grid locks the content column to a fixed
+// ~800px width no matter how wide the screen is, which is what was
+// causing the large empty margins on desktop. Widen it (desktop only).
+@media (min-width: 769px) {
+  .page-columns {
+    grid-template-columns: [screen-start] 1fr [screen-start-inset] 0px [page-start page-start-inset] 0px [body-start-outset] 0px [body-start] 0px [body-content-start] minmax(0, 1200px) [body-content-end] 0px [body-end] 0px [body-end-outset] 0px [page-end-inset page-end] 0px [screen-end-inset] 1fr [screen-end] !important;
+  }
+}
+
 // Override Bootstrap container constraints
 .container,
 .container-fluid,
