@@ -5,7 +5,7 @@ title: "Research"
 ## Online Political Behavior
 
 ::: {.publication-entry}
-**Demanding Hostility? Preferences for In-Group Promotion in Online News Content** *Job Market Paper*.
+**Demanding Hostility? Preferences for In-Group Promotion in Online News Content.** *Job Market Paper*.
 
 <div style="margin: 0.5rem 0 0.5rem 0; padding-left: 1.5rem; position: relative; font-weight: 600; color: #4A7B95; padding-top: 0.3rem; padding-bottom: 0.3rem; margin-top: 0.3rem;">
 <span style="position: absolute; left: 0; font-size: 1rem;">▸</span>[Timothy E. Cook Best Graduate Student Paper Award, Political Communication Section, APSA 2026](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-23/)
@@ -19,13 +19,13 @@ title: "Research"
 :::
 
 ::: {.publication-entry}
-**Measuring Public Opinion and Political Behavior in the Digital Age: Promises and Limitations of Digital Trace Data** *Working paper*. (With David G. Rand and Adam J. Berinsky)
+**Measuring Public Opinion and Political Behavior in the Digital Age: Promises and Limitations of Digital Trace Data.** *Working paper*. (With David G. Rand and Adam J. Berinsky)
 :::
 
 ## AI and Politics
 
 ::: {.publication-entry}
-**Labeling AI-Generated Media Online** 2025. *PNAS Nexus* 4(6). (With Chloe Wittenberg, Ziv Epstein, Adam J. Berinsky, and David G. Rand). *Paper can be accessed [here](https://doi.org/10.1093/pnasnexus/pgaf170)*.
+**Labeling AI-Generated Media Online.** 2025. *PNAS Nexus* 4(6). (With Chloe Wittenberg, Ziv Epstein, Adam J. Berinsky, and David G. Rand). *Paper can be accessed [here](https://doi.org/10.1093/pnasnexus/pgaf170)*.
 
 <details>
 <summary>Abstract</summary>
@@ -35,7 +35,7 @@ title: "Research"
 :::
 
 ::: {.publication-entry}
-**The Unintended Consequences of Labeling AI-Generated Media Online** *Under review*. (With Kai Zhou, Adam J. Berinsky, and David G. Rand). *Preprint can be accessed [here](https://osf.io/preprints/psyarxiv/v87xf_v1)*.
+**The Unintended Consequences of Labeling AI-Generated Media Online.** *Under review*. (With Kai Zhou, Adam J. Berinsky, and David G. Rand). *Preprint can be accessed [here](https://osf.io/preprints/psyarxiv/v87xf_v1)*.
 
 <details>
 <summary>Abstract</summary>
@@ -49,13 +49,13 @@ title: "Research"
 :::
 
 ::: {.publication-entry}
-**The Limits of AI-Persuasion: How Voters React to Synthetic Campaign Media** *Available upon request*. (With Victor Livernoche, Aarash Feizi, Svetlana Zhuk, Kellin Pelrine, André Blais, Reihaneh Rabbany, and Jean-François Godbout)
+**The Limits of AI-Persuasion: How Voters React to Synthetic Campaign Media.** *Working paper*. (With Victor Livernoche, Aarash Feizi, Svetlana Zhuk, Kellin Pelrine, André Blais, Reihaneh Rabbany, and Jean-François Godbout)
 :::
 
 ## Misinformation
 
 ::: {.publication-entry}
-**A Guide to Misinformation Detection Data and Evaluation** *Proceedings of the KDD Datasets and Benchmarks Track 2025*, Toronto, Canada, August 3–7, 2025. (With Camille Thibault, Jacob-Junqi Tian, Taylor Lynn Curtis, James Zhou, Florence Laflamme, Yuxiang Guan, Reihaneh Rabbany, Jean-François Godbout, and Kellin Pelrine). *Paper can be accessed [here](https://dl.acm.org/doi/abs/10.1145/3711896.3737437)*.
+**A Guide to Misinformation Detection Data and Evaluation.** *Proceedings of the KDD Datasets and Benchmarks Track 2025*, Toronto, Canada, August 3–7, 2025. (With Camille Thibault, Jacob-Junqi Tian, Taylor Lynn Curtis, James Zhou, Florence Laflamme, Yuxiang Guan, Reihaneh Rabbany, Jean-François Godbout, and Kellin Pelrine). *Paper can be accessed [here](https://dl.acm.org/doi/abs/10.1145/3711896.3737437)*.
 
 <div style="margin: 0.5rem 0 0.5rem 0; padding-left: 1.5rem; position: relative; font-weight: 600; color: #4A7B95; padding-top: 0.3rem; padding-bottom: 0.3rem; margin-top: 0.3rem;">
 <span style="position: absolute; left: 0; font-size: 1rem;">▸</span>Runner Up Best Paper Award
@@ -69,7 +69,7 @@ title: "Research"
 :::
 
 ::: {.publication-entry}
-**A Double-Edged Sword: Unpacking the Relationship between Political Sophistication and Belief in Political (Mis)Information** *Revise and resubmit at Political Behavior*. (With Chloe Wittenberg, Adam J. Berinsky, Gordon Pennycook, and David G. Rand)
+**A Double-Edged Sword: Unpacking the Relationship between Political Sophistication and Belief in Political (Mis)Information.** *Revise and resubmit at Political Behavior*. (With Chloe Wittenberg, Adam J. Berinsky, Gordon Pennycook, and David G. Rand)
 
 <details>
 <summary>Abstract</summary>
@@ -81,7 +81,7 @@ title: "Research"
 ## Elections and Public Opinion
 
 ::: {.publication-entry}
-**Party Preference Representation** 2022. *Party Politics* 28(1). 48–60. (With André Blais, Eric Guntermann, Vincent Arel-Bundock, Ruth Dassonneville, and Jean-François Laslier). *Paper can be accessed [here](https://journals.sagepub.com/doi/full/10.1177/1354068820954631)*.
+**Party Preference Representation.** 2022. *Party Politics* 28(1). 48–60. (With André Blais, Eric Guntermann, Vincent Arel-Bundock, Ruth Dassonneville, and Jean-François Laslier). *Paper can be accessed [here](https://journals.sagepub.com/doi/full/10.1177/1354068820954631)*.
 
 <details>
 <summary>Abstract</summary>
@@ -121,7 +121,7 @@ title: "Research"
 :::
 
 ::: {.publication-entry}
-**Logarithmic versus Linear Visualizations of COVID-19 Cases Do Not Affect Citizens' Support for Confinement** 2020. *Canadian Journal of Political Science* 53. 385–390. (With Semra Sevi, Marco Mendoza Aviña, Emmanuel Heisbourg, Paola Vegas, Maxime Coulombe, Vincent Arel-Bundock, Peter John Loewen, and André Blais). *Paper can be accessed [here](https://doi.org/10.1017/S000842392000030X)*.
+**Logarithmic versus Linear Visualizations of COVID-19 Cases Do Not Affect Citizens' Support for Confinement.** 2020. *Canadian Journal of Political Science* 53. 385–390. (With Semra Sevi, Marco Mendoza Aviña, Emmanuel Heisbourg, Paola Vegas, Maxime Coulombe, Vincent Arel-Bundock, Peter John Loewen, and André Blais). *Paper can be accessed [here](https://doi.org/10.1017/S000842392000030X)*.
 :::
 
 ::: {.publication-entry}
