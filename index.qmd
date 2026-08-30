@@ -17,11 +17,15 @@ pagetitle: "Gabrielle Péloquin-Skulski"
 
 <div class="bio-text" style="flex: 1; min-width: 0;">
 
-I am a PhD candidate in the Department of Political Science at the Massachusetts Institute of Technology (MIT). I am affiliated with the [Political Experiments Research Lab (PERL)](https://perlab.mit.edu/), the [Human Cooperation Laboratory](https://davidrand-cooperation.com/lab), and the [Complex Data Lab](https://www.complexdatalab.com/).
+I am a PhD candidate in Political Science at the Massachusetts Institute of Technology (MIT). I study political communication, political behavior, and public opinion. My research examines how the supply and characteristics of political information shape people’s attitudes, beliefs, and online behavior. I focus particularly on out-group hostility, misinformation, and AI-generated media. Methodologically, my research draws on large-scale survey experiments, meta-analyses, and behavioral data from digital platforms. I also use large language models to classify political content and apply causal inference methods to experimental and observational data.
 
-My broad research interests include political psychology, political communication, and public opinion, with a particular focus on misinformation and content authenticity. My dissertation examines how features of political content shape what people believe, consume, and engage with online. I also study how labeling AI-generated media affects individuals' perceptions and online behavior, as well as how digital trace data can be used to infer political attitudes and offline behaviors. Methodologically, my work integrates causal inference and large language models with large-scale survey experiments and digital trace data.
+My dissertation examines political hostility in the news media and Americans’ engagement with this content online. More specifically, I study how individual characteristics and supply-side dynamics shape engagement with news that promotes one’s political in-group or attacks the out-group. One of the papers from this research received the American Political Science Association’s [Timothy E. Cook Award](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-23/) for the best graduate student paper in political communication.
 
-Prior to starting my PhD at MIT, I earned a B.Sc. (Honors) and a M.Sc. from the Université de Montréal. Outside of research, I enjoy cycling around Cambridge and Boston, skiing, and cooking.
+Another area of my research looks at how AI technologies are transforming the political information environment and how their use should be governed. In particular, I study how policies designed to communicate the provenance and authenticity of content shape trust, beliefs, and online engagement. I received a [Microsoft Research Fellowship](https://www.microsoft.com/en-us/research/project/project-provenance/fellowships/) with David G. Rand and Adam J. Berinsky to advance this work. I also examine how AI is used in political campaigns and how the public views these new practices.
+
+I am affiliated with the [Political Experiments Research Lab (PERL)](https://perlab.mit.edu/), the [Human Cooperation Laboratory](https://davidrand-cooperation.com/lab), and the [Complex Data Lab](https://www.complexdatalab.com/). Before beginning my PhD at MIT, I earned a B.Sc. (Honors) and an M.Sc. from the Université de Montréal. Outside of research, I enjoy cycling, skiing, and cooking.
+
+My email is [gskulski@mit.edu](mailto:gskulski@mit.edu). 
 
 </div>
 
