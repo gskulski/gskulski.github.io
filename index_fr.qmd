@@ -23,7 +23,7 @@ Ma thèse examine l'hostilité politique dans le contenu d'actualité et la mani
 
 Un autre volet de mes recherches porte sur la manière dont les technologies d'IA transforment l'environnement politique. Je m'intéresse notamment aux politiques visant à informer le public de la provenance et de l'authenticité du contenu, ainsi qu'à leurs effets sur la confiance, les croyances et les interactions en ligne. J'ai reçu une [bourse de recherche de Microsoft](https://www.microsoft.com/en-us/research/project/project-provenance/fellowships/) avec David G. Rand et Adam J. Berinsky afin de poursuivre ces travaux. J'étudie également l'utilisation de l'IA dans les campagnes électorales et l'opinion publique à l'égard de ces nouvelles pratiques.
 
-J'ai obtenu un baccalauréat avec distinction (*Honors*) et une maîtrise de l'Université de Montréal avant de commencer mon doctorat au MIT. En dehors de mes activités de recherche, j'aime faire du vélo, skier et cuisiner.
+J'ai obtenu un baccalauréat (*honors*) et une maîtrise de l'Université de Montréal avant de commencer mon doctorat au MIT. En dehors de mes activités de recherche, j'aime faire du vélo, skier et cuisiner.
 
 Vous pouvez me joindre à l'adresse [gskulski@mit.edu](mailto:gskulski@mit.edu).
 
