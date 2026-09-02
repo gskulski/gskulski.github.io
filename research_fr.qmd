@@ -35,7 +35,7 @@ title: "Recherche"
 :::
 
 ::: {.publication-entry}
-**« The Unintended Consequences of Labeling AI-Generated Media Online. »** *Sous révision*. (Avec Kai Zhou, Adam J. Berinsky et David G. Rand). *Le preprint peut être consulté [ici](https://osf.io/preprints/psyarxiv/v87xf_v1)*.
+**« The Unintended Consequences of Labeling AI-Generated Media Online. »** *Révision et resoumission à Nature Communications*. (Avec Kai Zhou, Adam J. Berinsky et David G. Rand). *Le preprint peut être consulté [ici](https://osf.io/preprints/psyarxiv/v87xf_v1)*.
 
 <details>
 <summary>Résumé (anglais)</summary>
