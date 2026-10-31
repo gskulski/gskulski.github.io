@@ -55,6 +55,16 @@ title: "Research"
 ## Misinformation
 
 ::: {.publication-entry}
+**A Double-Edged Sword: Unpacking the Relationship between Political Sophistication and Belief in Political (Mis)Information.** *Conditional acceptance at Political Behavior*. (With Chloe Wittenberg, Adam J. Berinsky, Gordon Pennycook, and David G. Rand)
+
+<details>
+<summary>Abstract</summary>
+
+<p> Past research offers competing perspectives on the role of political sophistication in receptivity to political (mis)information. The first perspective holds that political sophistication (defined as individuals' knowledge and ability to reason about politics) serves a protective function, providing the domain-specific expertise people need to parse political truth from fiction. The second, by contrast, posits that political sophistication magnifies partisan differences in accuracy judgments, with individuals more likely to deem information true when it aligns with their political predispositions. However, previous work is limited in its ability to adjudicate between these perspectives; most notably, it does not account for the relationship between political and cognitive sophistication, the latter of which is often associated with better discernment of true vs. false claims. To address these questions, we re-analyze twelve observational studies assessing perceptions of nearly 400 true, false, and hyper-partisan news headlines related to American politics (N = 7,879; 125,202 observations). Overall, we find support for both theoretical perspectives: political sophistication tends to be associated both with enhanced truth discernment—namely, the ability to distinguish true versus false headlines—and more biased judgments of politically concordant versus discordant headlines. Together, these findings help to reconcile two dominant perspectives in the literature and shed new light on the predictors of political beliefs in a digital age.</p>
+</details>
+:::
+
+::: {.publication-entry}
 **A Guide to Misinformation Detection Data and Evaluation.** *Proceedings of the KDD Datasets and Benchmarks Track 2025*, Toronto, Canada, August 3–7, 2025. (With Camille Thibault, Jacob-Junqi Tian, Taylor Lynn Curtis, James Zhou, Florence Laflamme, Yuxiang Guan, Reihaneh Rabbany, Jean-François Godbout, and Kellin Pelrine). *Paper can be accessed [here](https://dl.acm.org/doi/abs/10.1145/3711896.3737437)*.
 
 <div style="margin: 0.5rem 0 0.5rem 0; padding-left: 1.5rem; position: relative; font-weight: 600; color: #4A7B95; padding-top: 0.3rem; padding-bottom: 0.3rem; margin-top: 0.3rem;">
@@ -68,15 +78,7 @@ title: "Research"
 </details>
 :::
 
-::: {.publication-entry}
-**A Double-Edged Sword: Unpacking the Relationship between Political Sophistication and Belief in Political (Mis)Information.** *Revise and resubmit at Political Behavior*. (With Chloe Wittenberg, Adam J. Berinsky, Gordon Pennycook, and David G. Rand)
 
-<details>
-<summary>Abstract</summary>
-
-<p>Past research offers competing perspectives on the role of political sophistication in receptivity to political (mis)information. The first perspective holds that political sophistication (defined as individuals' knowledge and ability to reason about politics) serves a protective function, furnishing the domain-specific expertise people need to parse political truth from fiction. The second, by contrast, posits that political sophistication magnifies partisan differences in accuracy judgments, with individuals more likely to deem information true when it aligns with their political predispositions. However, previous work is limited in its ability to adjudicate between these perspectives; most notably, it does not account for the relationship between political and cognitive sophistication, the latter of which is often associated with better discernment of true vs. false claims. To address these questions, we re-analyze twelve observational studies assessing perceptions of nearly 400 true, false, and hyper-partisan news headlines (N = 7,879; 125,202 observations). Overall, we find support for both theoretical perspectives: political sophistication tends to be associated both with enhanced truth discernment—namely, the ability to distinguish true versus false headlines—and more biased judgments of politically concordant versus discordant headlines. Together, these findings help to reconcile two dominant perspectives in the literature and shed new light on the predictors of political beliefs in a digital age.</p>
-</details>
-:::
 
 ## Elections and Public Opinion
 
